@@ -1,0 +1,5 @@
+
+
+../output/checkpoint_weights_good_valid.hdf5
+
+Yes , adding a phase in ap protocol can be advantageous as composed to ? have commit protocol . As it will be mane secured worn failures . It is a tyre af protocol which des all the nodes in the ssler to commit . 3.P is a non blocking protocol while 2-P has blocking scenarios . In the 3p , first phase , coordinator is selected and sends prepare mag to all participants and the participants sends nespenzes Covertly mags Then , if all participants sent yes then continue and send pre-commit mog , on the aborted It all yes are seconded than commit mag's sent so all participants . 50 , adding one more phase can help in mating the protocol metre faulksoure .

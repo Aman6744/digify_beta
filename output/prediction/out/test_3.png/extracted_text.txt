@@ -1,0 +1,13 @@
+
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+Mr. Macloul thought the two Rhodesia parties had refused to attend the talks because Sir Roy had found messages sut from the Government were " unsatisfactory ' , African delegates to the talks yeshday called on Mr. Macmillan to case his negatatins with Sir Roy's representative , Mr. Julius breenfiold . The was at .( request last work-end . They said they regarded with " growing ange ' the gross and unconstitutional "" interference by Sit Roy's federal Gorensent in the talks .
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+Mr. Macleod thought the two Rhodesia parties had refused to attend the talks because Sir Ray had found messages sert from the Government were " unsatisfactory ! African delegates to the talks yeshiva called on Mr. Macmillan to cease his negotiations with Sir Ross representative , Mr. Julius Greenfield . te was at . C headers lest week-ed . Hey said they regarded with " growing anger " the gross and unconstitutional ' s interference by Sir Roy's Federal Government in the talks .
+
+../output/checkpoint_weights_good_valid.hdf5
+
+Mr. Payload thought the two Rhodesian parties had refused to attend the talks because Sir Roy had found messages suit from the government were " unsatisfactory . " African delegates to the talks yeshday called on Mr. Macmillan to case his negotiations with Sir Roy's representative , Mr. Julius Greenfield . The was at . C headers last work-end . They said they regarded with " growing angry " the gross and unconstitutional " interference by Sir Roy's Federal Government in the talks .

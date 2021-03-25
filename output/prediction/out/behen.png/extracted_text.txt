@@ -1,0 +1,21 @@
+
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+The 'English for General Competitions- from Plinth to Paramount is my gift to the raspirants of competitive exam who were extremely benefitted by the approach of the book . The demand rose the English version was so tremendous that I had to take the translation work on farionity basis and now this book is all yours , my gift for the students especially from the North-east and South India .
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+The English for General Competitions - from Plinth to Paramount is my just to the aspirants of competitive exam who were extremely benefited by the approach of the book . The demand fore the English Version was so tremendous that I had to take the translation work on priority basis and row this book is all yours , my gift for the students especially from the North-east and South India .
+
+../output/checkpoint_weights_good_valid_1.hdf5 contrast
+
+The English for General Competitions - from Plinth to Paramount ' as my gift to the aspirants of competitive exam who were extremely benefited by the approach of the book . The demand fore the English Version was so tremendous that I had to take the translation work on priority basis and row this book is all yours , my gift for the students especially from the North-east and South India .
+
+../output/checkpoint_weights_bad_valid.hdf5 contrast
+
+The 'English for General Competitions- from Plinth to Paramount is my gift to the caspirants of competitive exam who were extremely benefitted by the approach of the book . The demand rose the English version was so tremendous that I had to take the translation work ,on formality basis and now this book is all yours , my gift for the students especially from the North-east and South India .
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+The ' English for General Competitions - from Plinth to Paramount is my gift to the aspirants of competitive exam who were extremely benefitted by the approach of the book . The demand for the English version was so tremendous that I had to take the translation work on priority basis and now this book is all yours , my gift for the students especially from the North-east and South India .

@@ -1,0 +1,46 @@
+
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['should'] ==> [0.8675409]
+['Rullt: Should is used to exfress suggestion'] ==> [0.00617757]
+['advice . You should study English . You should'] ==> [0.2932231]
+['not lough at his mistake .'] ==> [0.62594295]
+['Bul3 : 36 should is used aften dext , it'] ==> [0.00510449]
+['shaus negative tourposl . He san fast , lext'] ==> [0.00166786]
+['he should miss the trrain .'] ==> [0.26811516]
+['Note : Lest can also take i v; but plural'] ==> [0.00697383]
+['foum even with singulan ubjects .'] ==> [0.10965256]
+['Eg.: Take earce bast you the fall .'] ==> [0.00294932]
+['Rule , : Must rnustused to denate compulsion'] ==> [0.00853687]
+['ag.: candidates must write in ink .'] ==> [0.07149418]
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['should'] ==> [0.9154642]
+['Rulet: Should is woed to exfress suggestion'] ==> [0.01357944]
+['advice . You should study English . You should'] ==> [0.19961675]
+['not lough at his mistake .'] ==> [0.65474564]
+['Bul3 : 36 should is used after dext , it'] ==> [0.05780521]
+['shaws negative fourporl . He san fast , lext'] ==> [0.00095474]
+['he should miss the train .'] ==> [0.5261793]
+['Note : Lest can also take i y; but plural'] ==> [0.00766276]
+['toum even with singulan aubjects .'] ==> [0.05587325]
+['Eg.: Take earce last you the fall .'] ==> [0.00516862]
+['Rule , : Must rnustused to denate compulsion'] ==> [0.00853687]
+['ag.: candidates must write in ink .'] ==> [0.07149418]
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['should'] ==> [0.88790876]
+['RuleI: Should is woed to exfress suggestion'] ==> [0.04365609]
+['advice . You should study English . Yom should'] ==> [0.2834077]
+['not laugh at his mistake .'] ==> [0.42260593]
+['#u43 : I6 should is used after lext , it'] ==> [0.00489949]
+['shaws negative furposl . He san fast , lext'] ==> [0.00522508]
+['he should miss the train .'] ==> [0.31606948]
+["Nate : Lest can also take i v; ' but plural"] ==> [0.01663629]
+['foum even with singulan aubjects .'] ==> [0.2704823]
+['Eg.: Take care lost youthe foll .'] ==> [0.00242913]
+['Rule , : Must Enustused to denate compulsion'] ==> [0.00651307]
+['eg.: candidatis must write in ink .'] ==> [0.03855708]

@@ -1,0 +1,37 @@
+
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+['Mr. Macloul thought the two Rhadesim parties'] ==> [0.00383229]
+['had refused to atterd the talks because Sir Roy'] ==> [0.3127788]
+['had fourd messuges sut from the Govensent were'] ==> [0.01717632]
+['" unsatisfactory \' , African delegates to the talks yeshday'] ==> [0.03654335]
+['called on Mr. Mocmillan to coase his negatatins with'] ==> [0.0350828]
+["Sir Roy's representative , Mr. Jilivs breenfiold . The was"] ==> [0.00305151]
+['at .( requers last woek-end . They said they regarded'] ==> [0.00257517]
+['with " growing ange \' the gross and unconstitutioral ""'] ==> [0.01519931]
+["interfernce by Sit Roy's federal Gorensent in the tulks ."] ==> [0.0014789]
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+['Mr. Maclood thought the two Rhodesin parties'] ==> [0.03608729]
+['had refused to atterd the talks because Sir Ray'] ==> [0.44214705]
+['had found mesinges seurt from the Govensent were'] ==> [0.00315229]
+['" unsatisfuctory ! African delegates to the talks yeshiday'] ==> [0.00614586]
+['called on Mr. Mocmillan to cease his negotatins with'] ==> [0.12587631]
+['Sir Roys representative , Mr. Jilius Greenfield . te was'] ==> [0.01489113]
+['at . C hequers lest week-ed . Hey said they regarded'] ==> [0.02632866]
+['with " growing anger " the gross and unconstitutioral \' s'] ==> [0.21337396]
+["interference by Sir Roy's Fedeual Gevernent in the talks ."] ==> [0.00032335]
+
+../output/checkpoint_weights_good_valid.hdf5
+
+['Mr. Macload thought the two Rhodesian parties'] ==> [0.06225693]
+['had refused to attend the talks because Sir Roy'] ==> [0.12593213]
+['had fourd messages sult from the boverntent were'] ==> [0.01171294]
+['" unsatisfuctory . " African delegates to the talks yeshday'] ==> [0.04150542]
+['called on Mr. Macmillan to coase his negotatins with'] ==> [0.01493846]
+["Sir Roy's representutive , Mr. Julius Greenfield . Hhe was"] ==> [0.01666224]
+['at . C hequers last woek-end . They said they regarded'] ==> [0.00975765]
+['with " growing angr " the gross and unconstitutioral "'] ==> [0.08835992]
+["interfernce by Sir Roy's Fedeal Govenwent in the talks ."] ==> [0.00299841]

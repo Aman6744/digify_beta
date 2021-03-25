@@ -1,0 +1,13 @@
+
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+Mr. Hailed went on with the conference at Lancaster House despite the crisis which had blown up . He has now revealed his full plants to the African and Liberals attending . These plays do not give the African the overall majority they are seeking . African delegates are stud in them today . The conference is wit meet to discuss the function of a proposed House of Chess .
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+Mr. Macleod went on with the conference at Lancaster House despite the crisis which had blown up . He has now revealed his full plants to the African and Liberals attending . These plans do not give the African the overall majority they are seeking . African delegates are stud in them today . The conference I : will meet to discuss the function of a proposed House of Ref .
+
+../output/checkpoint_weights_good_valid.hdf5
+
+Mr. Macleod went on with the conference at Lancaster House despite the crisis which had blown up . He has now revealed his full plants to the African and Liberals attending . These plans do not give the African the overall majority they are seeking . African delegates are stud in them today . The conference "s will meet to discuss the function of a proposed House of Cup. .

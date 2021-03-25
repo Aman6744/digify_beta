@@ -1,0 +1,20 @@
+
+
+../output/checkpoint_weights_good_valid.hdf5
+
+['Yes , adding a phase in ap protocel can be'] ==> [0.13545893]
+['advamtageeus as composed to ? phave coromit'] ==> [0.01106392]
+['porotocal . As it will be mane sembred foworn'] ==> [0.00437989]
+['failvnes . It is a tyre af protocal which dets all'] ==> [0.01233324]
+['the nodes in the syslern to cormit . 3.P is'] ==> [0.06062067]
+['a non blocking protocol while 2-P has blocking'] ==> [0.02313418]
+['scenanios .'] ==> [0.6984667]
+['In the 3p , finst phase , coondinaton is selecled'] ==> [0.1953875]
+['and sends prrepane mag to all participants and'] ==> [0.12297477]
+['the panticipants sends nespenzes Coveadly mags'] ==> [0.00544932]
+['Then , if all panticipanls sent yes then continwe and'] ==> [0.12830424]
+['send prre-commit mog , on the abosited'] ==> [0.0334976]
+["It all yes are neconded than commit mag's"] ==> [0.18949318]
+['sent so all panticiponts .'] ==> [0.14800583]
+['50 , adding one mose phase can help in mating'] ==> [0.06831617]
+['the porotocod meare faulksoure .'] ==> [0.00982257]

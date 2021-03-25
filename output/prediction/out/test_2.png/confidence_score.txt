@@ -1,0 +1,40 @@
+
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+['Mr. Hacleod went on with the conference at'] ==> [0.38919163]
+['Lancaster House despite the crisis which had'] ==> [0.49612328]
+['blown up . He has now revealed his full plants'] ==> [0.5728704]
+['to the Africans and Liberals attending . These'] ==> [0.22615875]
+['plars do not give the Aficans the overall'] ==> [0.51025915]
+['majority they are seeking . African delegates'] ==> [0.5541748]
+['are stud in them today . The conference'] ==> [0.5634096]
+['is'] ==> [0.67260045]
+['wit meet to discurs the furction of a'] ==> [0.2672403]
+['proposed House of Chress .'] ==> [0.30040506]
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+['Mr. Macleod went on with the conference at'] ==> [0.3168476]
+['Lancaster House despite the crisis which had'] ==> [0.81116825]
+['blown up . He has now revealed his full plants'] ==> [0.75984615]
+['to the Africans and Liberals attending . These'] ==> [0.4123558]
+['plans do not give the Aficans the overall'] ==> [0.60165715]
+['majority they are seeking . African delegates'] ==> [0.771004]
+['are stud in them today . The conference'] ==> [0.81219584]
+['I :'] ==> [0.21935782]
+['will meet to discuss the function of a'] ==> [0.7241622]
+['proposed House of Cref .'] ==> [0.08805524]
+
+../output/checkpoint_weights_good_valid.hdf5
+
+['Mr. Macleod went on with the ronference at'] ==> [0.40063775]
+['Lancaster House despite the crisis which had'] ==> [0.8245867]
+['blown up . He has now revealed his full plants'] ==> [0.73332125]
+['to the Africans and Liberals attending . These'] ==> [0.60766935]
+['plans do not give the Aficans the overall'] ==> [0.48210746]
+['majority they are seeking . African delegates'] ==> [0.66033375]
+['are stud in them today . The conference'] ==> [0.35677764]
+['"s'] ==> [0.04085951]
+['will meet to discuss the fanction of a'] ==> [0.2630613]
+['proposed House of Cep. .'] ==> [0.2331416]

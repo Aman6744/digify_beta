@@ -1,0 +1,14 @@
+
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+Two roads diverged in a yellow wood , And sorry I could not travel both And be one travelers , long g stood And looked down one as far as g could To where it bent in the undergrowth: Then took the other , as just as five , And having perhaps the better claim , Because it was grassy and wanted wear ; Trough as for that the passing there Had warm them really about the same , and both that morning equally lay In leaves no step had trrodden black .
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+Two roads diverged in a yellow wood , And sony I could not travel both And be one traveler , long g stood and looked down one as far as g could To where it bent in the undergrowths Then took the other , as gust as five , And having perhaps the better claim . Because it was grassy and wanted wear ; Trough as for that the passing there Had warm ther really about the same , and both that morning equally lay In leaves no step had trrodden black .
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+ Two roads diverged in a yellow wood , And sons I could not travel both And be one traveled , long I stood And looked down one as fan as I could To where it bent in the underignowth : Then took the other , as gust as false . And having perhaps the better claim . Because it was grassy and wanted ease : Though as for that the passing there Had was them really about the same . And both that morning equally lay In leaves no step had hidden black .
+

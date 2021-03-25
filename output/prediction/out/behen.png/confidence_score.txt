@@ -1,0 +1,66 @@
+
+
+../output/checkpoint_weights_bad_valid.hdf5
+
+["The 'English for General Compelitions- from"] ==> [0.07907648]
+['Plinth to Pacamount is my gift to the'] ==> [0.02203258]
+['raspirants of compelitive exam who'] ==> [0.12649107]
+['were extremely benefitted by the approach'] ==> [0.58781874]
+['of the book . The demand fose the English'] ==> [0.3600606]
+['version was so tremendous that I had to'] ==> [0.7557915]
+['take the translation work on farionity'] ==> [0.01667658]
+['basis and now this book is all yours ,'] ==> [0.26499736]
+['my gift foor the students especially from'] ==> [0.65491295]
+['the North-east and South India .'] ==> [0.2741313]
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['The English for Gencral Compelitions - from'] ==> [0.07182073]
+['Plinth to Paramount is my gjuft to the'] ==> [0.00210226]
+['aspirants of compelitive exam who'] ==> [0.29858512]
+['were extremely benefixted by the approuch'] ==> [0.14158054]
+['of the book . The demand fore the English'] ==> [0.34682164]
+['Veswsion was so tremendous that I had to'] ==> [0.14393958]
+['take the translation work on priasity'] ==> [0.05233617]
+['basis and mow this booke is all yours ,'] ==> [0.1087494]
+['my gift for the students especially from'] ==> [0.43323743]
+['the North-east and South India .'] ==> [0.5943774]
+
+../output/checkpoint_weights_good_valid_1.hdf5 contrast
+
+['The English for General Compelitions - from'] ==> [0.15959568]
+["Plinth to Paramount ' as my guft to the"] ==> [0.04826254]
+['aspirants of competitive exam who'] ==> [0.4205707]
+['were extrremely benefixted by the approuch'] ==> [0.29346484]
+['of the book . The demand fore the English'] ==> [0.37354243]
+['Veresion was so tremendous that I had to'] ==> [0.10234944]
+['take the translation work on priarity'] ==> [0.04379359]
+['basis and mow this booke is all yours ,'] ==> [0.23202853]
+['my gift for the students especially from'] ==> [0.31171227]
+['the North-east and South India .'] ==> [0.46968693]
+
+../output/checkpoint_weights_bad_valid.hdf5 contrast
+
+["The 'English for General Compelitions- from"] ==> [0.3891253]
+['Plinth to Pacamount is my gift to the'] ==> [0.10628587]
+['caspirants of competitive exam who'] ==> [0.3153609]
+['were extremely benefitted by the approach'] ==> [0.68725926]
+['of the book . The demand fose the English'] ==> [0.7129421]
+['version was so tremendous that I had to'] ==> [0.76855826]
+['take the translation work ,on forianity'] ==> [0.00795579]
+['basis and now this book is all yours ,'] ==> [0.4982537]
+['my gift foor the students especially from'] ==> [0.55284363]
+['the North-east and South India .'] ==> [0.4851264]
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+["The ' English for General Competitions - from"] ==> [0.3252943]
+['Plinth to Parcamount is my guft to the'] ==> [0.22926983]
+['aspirants of competitive exam who'] ==> [0.40626025]
+['were extremely benefitted by the approuch'] ==> [0.7576965]
+['of the book . The demand fosr the English'] ==> [0.47315586]
+['version was so tremendous that I had to'] ==> [0.8863209]
+['take the translation work on pariarity'] ==> [0.23544997]
+['basis and now this book is all yours ,'] ==> [0.624829]
+['my gift for the students especially from'] ==> [0.58624643]
+['the North-east and South India .'] ==> [0.64515704]

@@ -1,0 +1,47 @@
+
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['Two reoads diverged in a yellow wood ,'] ==> [0.17568597]
+['And sovry I could not travel both'] ==> [0.15092607]
+['And be one travelere , long g stood'] ==> [0.16196702]
+['And looked down one as far as g could'] ==> [0.17285779]
+['To where it bent in the undergrowth:'] ==> [0.20709106]
+['Then took the otherl , as just as faive ,'] ==> [0.18792702]
+['And having perhaps the better claim ,'] ==> [0.3842521]
+['Because it was griassy and wanted wear ;'] ==> [0.17532904]
+['Trough as for that the passing there'] ==> [0.09063974]
+['Had warm them really about the same ,'] ==> [0.12676577]
+['and both that mouning eqvadly lay'] ==> [0.26628214]
+['In leaves no step had trrodden black .'] ==> [0.31684035]
+
+../output/checkpoint_weights_good_valid_1.hdf5
+
+['Two reoads diverged in a yellow wood ,'] ==> [0.3191461]
+['And sovny I could not travel both'] ==> [0.16568054]
+['And be one traveler , long g stood'] ==> [0.25099835]
+['and looked down one as far as g could'] ==> [0.1716238]
+['To where it bent in the undergrowths'] ==> [0.5204173]
+['Then took the otherl , as gust as faive ,'] ==> [0.18040538]
+['And having perhaps the better claim .'] ==> [0.42191008]
+['Because it was grassy and wanted wear ;'] ==> [0.15063001]
+['Trough as for that the passing there'] ==> [0.14442901]
+['Had warm ther really about the same ,'] ==> [0.06301802]
+['and both that mouning eqvadly lay'] ==> [0.30275828]
+['In leaves no step had trrodden black .'] ==> [0.36203843]
+
+../output/checkpoint_weights_bentham_mixed.hdf5
+
+[' Two reoads divesiged in a yellow wood ,'] ==> [0.12772802]
+['And sovsy I could not tnavel both'] ==> [0.04341391]
+['And be one travelex , long I stood'] ==> [0.0077608]
+['And looked down one as fan as I could'] ==> [0.39680052]
+['To where it bent in the underignowth :'] ==> [0.11244254]
+['Then took the othesr , as gust as faise .'] ==> [0.0214592]
+['And having peshaps the better claim .'] ==> [0.12106482]
+['Because it was grassy and wanted wease :'] ==> [0.06128138]
+['Though as forl that the passing there'] ==> [0.22535796]
+['Had wasm them really about the same .'] ==> [0.12716244]
+['And both that mosining equally lay'] ==> [0.40394843]
+['In leaves no step had thodden black .'] ==> [0.3247264]
+
